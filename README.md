@@ -1,2 +1,2 @@
-# the-odin-project-curriculum
-The Odin Project Curriculum
+# the-odin-project-git-test
+The Odin Project Git Test
